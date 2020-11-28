@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SageAdvice\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SageAdvice\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.csprojAssemblyReference.cache
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.AssemblyInfoInputs.cache
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.AssemblyInfo.cs
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.csproj.CoreCompileInputs.cache
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.exe
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.deps.json
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.runtimeconfig.json
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.runtimeconfig.dev.json
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.dll
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.pdb
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.dll
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.pdb
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.genruntimeconfig.cache
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.exe
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.deps.json
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.runtimeconfig.json
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.runtimeconfig.dev.json
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.dll
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.pdb
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.csprojAssemblyReference.cache
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.AssemblyInfoInputs.cache
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.AssemblyInfo.cs
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.csproj.CoreCompileInputs.cache
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.dll
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.pdb
+D:\РТУ-МИРЭА\2 курс\ТМП\Практика\Linked List\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.genruntimeconfig.cache
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.exe
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.deps.json
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.runtimeconfig.json
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.runtimeconfig.dev.json
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.dll
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\bin\Debug\netcoreapp3.1\LinkedDequeue98.pdb
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.csprojAssemblyReference.cache
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.AssemblyInfoInputs.cache
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.AssemblyInfo.cs
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.csproj.CoreCompileInputs.cache
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.dll
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.pdb
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeue98\obj\Debug\netcoreapp3.1\LinkedDequeue98.genruntimeconfig.cache
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\bin\Debug\netcoreapp3.1\LinkedDequeue98.exe
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\bin\Debug\netcoreapp3.1\LinkedDequeue98.deps.json
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\bin\Debug\netcoreapp3.1\LinkedDequeue98.runtimeconfig.json
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\bin\Debug\netcoreapp3.1\LinkedDequeue98.runtimeconfig.dev.json
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\bin\Debug\netcoreapp3.1\LinkedDequeue98.dll
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\bin\Debug\netcoreapp3.1\LinkedDequeue98.pdb
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\obj\Debug\netcoreapp3.1\LinkedDequeue98.csprojAssemblyReference.cache
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\obj\Debug\netcoreapp3.1\LinkedDequeue98.AssemblyInfoInputs.cache
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\obj\Debug\netcoreapp3.1\LinkedDequeue98.AssemblyInfo.cs
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\obj\Debug\netcoreapp3.1\LinkedDequeue98.csproj.CoreCompileInputs.cache
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\obj\Debug\netcoreapp3.1\LinkedDequeue98.dll
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\obj\Debug\netcoreapp3.1\LinkedDequeue98.pdb
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull\obj\Debug\netcoreapp3.1\LinkedDequeue98.genruntimeconfig.cache
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\bin\Debug\netcoreapp3.1\LinkedDequeue98.exe
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\bin\Debug\netcoreapp3.1\LinkedDequeue98.deps.json
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\bin\Debug\netcoreapp3.1\LinkedDequeue98.runtimeconfig.json
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\bin\Debug\netcoreapp3.1\LinkedDequeue98.runtimeconfig.dev.json
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\bin\Debug\netcoreapp3.1\LinkedDequeue98.dll
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\bin\Debug\netcoreapp3.1\LinkedDequeue98.pdb
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\obj\Debug\netcoreapp3.1\LinkedDequeue98.csprojAssemblyReference.cache
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\obj\Debug\netcoreapp3.1\LinkedDequeue98.AssemblyInfoInputs.cache
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\obj\Debug\netcoreapp3.1\LinkedDequeue98.AssemblyInfo.cs
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\obj\Debug\netcoreapp3.1\LinkedDequeue98.csproj.CoreCompileInputs.cache
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\obj\Debug\netcoreapp3.1\LinkedDequeue98.dll
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\obj\Debug\netcoreapp3.1\LinkedDequeue98.pdb
+C:\Users\SageAdvice\Desktop\TMP-main\LinkedDequeueFull.1\obj\Debug\netcoreapp3.1\LinkedDequeue98.genruntimeconfig.cache
