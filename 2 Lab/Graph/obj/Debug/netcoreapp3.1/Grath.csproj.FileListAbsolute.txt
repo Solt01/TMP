@@ -1,0 +1,13 @@
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\bin\Debug\netcoreapp3.1\Grath.exe
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\bin\Debug\netcoreapp3.1\Grath.deps.json
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\bin\Debug\netcoreapp3.1\Grath.runtimeconfig.json
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\bin\Debug\netcoreapp3.1\Grath.runtimeconfig.dev.json
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\bin\Debug\netcoreapp3.1\Grath.dll
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\bin\Debug\netcoreapp3.1\Grath.pdb
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\obj\Debug\netcoreapp3.1\Grath.csprojAssemblyReference.cache
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\obj\Debug\netcoreapp3.1\Grath.AssemblyInfoInputs.cache
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\obj\Debug\netcoreapp3.1\Grath.AssemblyInfo.cs
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\obj\Debug\netcoreapp3.1\Grath.csproj.CoreCompileInputs.cache
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\obj\Debug\netcoreapp3.1\Grath.dll
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\obj\Debug\netcoreapp3.1\Grath.pdb
+C:\Users\SageAdvice\Desktop\TMP-main\Grath\obj\Debug\netcoreapp3.1\Grath.genruntimeconfig.cache
